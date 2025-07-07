@@ -1,10 +1,8 @@
 # E-Commerce Sales-dashboard
 
 ### 1.	Project Title / Headline
-A concise, descriptive name for the dashboard.
-Example: 
-❄️ Snowy Analytics: Global Ski Resort Insights Dashboard
-A dynamic, interactive data visualization tool built to explore ski resort data worldwide—focusing on regional comparisons, resort attributes, terrain complexity, and skier suitability.
+
+Hemant E-Commerce Sales-dashboard
 
 ### 2.	Short Description / Purpose
 
@@ -34,4 +32,4 @@ The dashboard was built using the following tools and technologies:<br>
 - Showed Cash on Delivery (44%) as the most preferred payment mode, informing checkout experience improvements.
 
 ### 6.	Screenshots / Demos
-(https://github.com/hemant-akotkar/PowerBI-project1/blob/main/project_1.jpg)
+![Dashboard Preview](https://github.com/hemant-akotkar/PowerBI-project1/blob/main/project_1.jpg)
